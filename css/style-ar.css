@@ -12946,9 +12946,6 @@ header{
       .seventh-animation {
         animation-delay: 1s;
       }
-      .sevenths-animation {
-        animation-delay: 1.5s;
-      }
       .img {
         object-fit: cover;
         width: 170px;
